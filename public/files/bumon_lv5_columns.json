@@ -1,0 +1,67 @@
+[
+  {
+    "name": "lv5cd",
+    "obic_title": "SosikiCD (lv5)",
+    "title": "組織CD（lv5）"
+  },
+  {
+    "name": "lv0cd",
+    "obic_title": "SosikiCD (lv0)",
+    "title": "組織CD（lv0）"
+  },
+  {
+    "name": "lv0nm",
+    "obic_title": "SosikiName (lv0)",
+    "title": "組織名（lv0）"
+  },
+  {
+    "name": "lv1cd",
+    "obic_title": "SosikiCD (lv1)",
+    "title": "組織CD（lv1）"
+  },
+  {
+    "name": "lv1nm",
+    "obic_title": "SosikiName (lv1)",
+    "title": "組織名（lv1）"
+  },
+  {
+    "name": "lv2cd",
+    "obic_title": "SosikiCD (lv2)",
+    "title": "組織CD（lv2）"
+  },
+  {
+    "name": "lv2nm",
+    "obic_title": "SosikiName (lv2)",
+    "title": "組織名（lv2）"
+  },
+  {
+    "name": "lv3cd",
+    "obic_title": "SosikiCD (lv3)",
+    "title": "組織CD（lv3）"
+  },
+  {
+    "name": "lv3nm",
+    "obic_title": "SosikiName (lv3)",
+    "title": "組織名（lv3）"
+  },
+  {
+    "name": "lv4cd",
+    "obic_title": "SosikiCD (lv4)",
+    "title": "組織CD（lv4）"
+  },
+  {
+    "name": "lv4nm",
+    "obic_title": "SosikiName (lv4)",
+    "title": "組織名（lv4）"
+  },
+  {
+    "name": "lv5nm",
+    "obic_title": "SosikiName (lv5)",
+    "title": "組織名（lv5）"
+  },
+  {
+    "name": "bcd",
+    "obic_title": "BumonCD",
+    "title": "部門CD"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "invoice", 
+    "title": "請求書"
+  }, 
+  {
+    "name": "payment", 
+    "title": "支払明細"
+  }, 
+  {
+    "name": "estimate", 
+    "title": "見積書"
+  }, 
+  {
+    "name": "buy", 
+    "title": "成約確認書（注文書）"
+  }, 
+  {
+    "name": "order", 
+    "title": "受注書"
+  }, 
+  {
+    "name": "contract", 
+    "title": "契約書"
+  }, 
+  {
+    "name": "receit", 
+    "title": "領収書"
+  }, 
+  {
+    "name": "banking", 
+    "title": "銀行データ（経理）"
+  }
+]

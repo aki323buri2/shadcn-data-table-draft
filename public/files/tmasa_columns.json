@@ -1,0 +1,58 @@
+[
+  {
+    "name": "suffix",
+    "title": "サフィックス"
+  },
+  {
+    "name": "tokucd",
+    "title": "得意先CD"
+  },
+  {
+    "name": "tnamen",
+    "title": "得意先名"
+  },
+  {
+    "name": "tnamek",
+    "title": "得意先名（カナ）"
+  },
+  {
+    "name": "ryakun",
+    "title": "得意先名（略称）"
+  },
+  {
+    "name": "ryakuk",
+    "title": "得意先名（略称カナ）"
+  },
+  {
+    "name": "toroku",
+    "title": "登録日"
+  },
+  {
+    "name": "syusei",
+    "title": "修正日"
+  },
+  {
+    "name": "syukei",
+    "title": "集計CD"
+  },
+  {
+    "name": "gyosyu",
+    "title": "業種"
+  },
+  {
+    "name": "oyacd",
+    "title": "親CD"
+  },
+  {
+    "name": "kocd",
+    "title": "子CD"
+  },
+  {
+    "name": "add_ymd",
+    "title": "登録日時"
+  },
+  {
+    "name": "edit_ymd",
+    "title": "修正日時"
+  }
+]
